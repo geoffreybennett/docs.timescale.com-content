@@ -552,6 +552,10 @@ const pageIndex = [
                 Title: "How to contribute",
                 type: LINK,
                 href: "https://github.com/timescale/timescaledb/blob/master/CONTRIBUTING.md"
+            }, {
+                Title: "Contribute to docs",
+                type: PAGE,
+                href: "contribute-to-docs"
             }
         ]
     }, {
